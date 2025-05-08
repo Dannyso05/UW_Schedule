@@ -1,0 +1,1 @@
+This is a Full stack project that will allow UW students to quickly import school assignments and exma schedules into their calendar apps.
